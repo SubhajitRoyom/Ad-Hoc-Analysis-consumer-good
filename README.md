@@ -46,3 +46,5 @@ Out of total 10 ad_hoc requests some of the SQL problems solved in this project 
 
 ---
 
+ [LinkedIn](https://www.linkedin.com/in/subhajit-roy-9a0672314/)
+---
