@@ -46,5 +46,3 @@ Out of total 10 ad_hoc requests some of the SQL problems solved in this project 
 
 ---
 
-ORDER BY division, rank_order;
-
